@@ -1,0 +1,97 @@
+Reno:
+ eat: The Isles Teashop (Irish) - 809 S. Center St
+ eat: Naan & Kebab - 2740 S Virginia St.
+
+Winnemucca:
+ sleep: Winnemucca Inn - 714 W Winnemucca Blvd
+ breakfast: the griddle - 460 W Winnemucca Blvd
+ eat: Martin Hotel (basque) - 94 Railroad & Melarkey St
+ eat: Chihuahua's Restaurant - 71 Grioux St
+
+Battle Mountain:
+ sleep: Super 8 - 825 Super 8 Drive
+ eat: Owl Club Casion and Resturant
+ 
+Elko:
+ sleep: Hilton Garden Inn - 3650 Idaho St.
+ sleep: Americas Best Value Gold Country Inn & Casino - 2050 Idaho Street
+ eat: The Flying Fish (japanese fusion) - 245 3rd Street
+ eat + b: McAdoo's - 382 5th St
+
+Wells:
+ sleep: Sharon Motel - 599 6th St
+ eat: Bella's Espresso House
+ 
+Jackpot:
+ sleep: Cactus Petes Resort Casino - 1385 Highway 93
+ eat: Canyon Cove Buffet - 1385 Highway 93
+
+Twin Falls:
+ eat: Twin Falls Sandwich Company - 128 Main Ave
+ eat: Cafe Rio (texmex) - 835 Blue Lake Blvd North
+ eat: Persian Kebab - 669 Blue Lakes Blvd N.
+ sleep: The Fillmore Inn - 102 Fillmore St - (208) 736-4257
+ sleep: Apollo Motor Inn - 296 Addison Ave W
+ 
+Burley:
+ sleep: Fairfield Inn and Suites by Marriott -  230 W. 7th Street North - Burley
+ eat: Stevo's (Burgers) - 290 S 600 W - Heyburn 
+ eat: Docs Pizza - 514 6th St - Rupert
+ eat: El Caporal - 610 North Overland Ave - Burley
+
+Pocatello:
+ eat: Marhaba (arabic) - 245 Yellowstone Avenue
+ eat: Texas Roadhouse (BBQ steak) - 560 Bullock Stree
+ eat: Sumisu (sushi) - 309 E. Center
+ eat: Taste of India Nepal - 330 N Main St 
+ sleep: AmeriTel Inn - 1440 Bench Rd
+
+Blackfoot:
+ sleep: Super 8 Blackfoot - 1279 Parkway Drive
+ eat: El Vaquero Restaurane - 960 South Broadway Street
+
+Idaho Falls:
+ sleep: super 8 idaho falls - 705 Lindsay Boulevard
+ eat: SnakeBite - 401 Park Avenue
+ eat: Five Guys - 2541 S 25th E
+
+Victor:
+ sleep: Morley's Acres Farm and Bed & Breakfast - 399 E 4000 S - 208-354-1554
+ eat: The Brakeman American Grill - 27 N Main Street
+ eat: Big Hole BBQ - 22 W. Center Street
+ 
+Jackson:
+ eat: Moo's Gourmet Ice Cream - 110 Center Street
+ eat: Blue Lion (elk) - 160 N Millward
+ eat: e.leaven Food Company - 175 Center St
+
+Gran Teton Park:
+ eat: Ranch House - Colter bay villiage
+ eat: Jenny Lake Lodge Dining Room
+ 
+Gardiner:
+ eat: Lighthouse Restaurant - 752 Hwy 89 South
+ eat: Rosie's Pancake Paradise Breakfast Cafe - 204 Park St
+
+West Yellowstone:
+ eat: Cafe Madriz (spanish) - 311 N Canyon Street
+ eat: Taqueria Las Palmitas (taco bus) - 21 N Canyon Street
+
+Island Park:
+ eat: Boondocks Restaurant - 3587 Yale Kilgore Rd
+
+Ashton:
+ sleep: Log Cabin Motel - 1001 Main St - 208-652-3956
+ eat: 511 Main Fountain & Pizzeria - 511 Main Street
+
+Saint Anthony:
+ sleep: Guesthouse Henrys Fork Inn - 115 West Bridge Street
+ eat: Victor Emporium - 45 N Main St
+
+Rexburg:
+ sleep: Super 8 Rexburg - 215 West Main St
+ eat: Pizza Pie Cafe (Pizza Buffet) - 240 North 2nd East Street
+ eat: Millhollow (Sandwich + Froyo) - 48 South 1 East
+
+
+
