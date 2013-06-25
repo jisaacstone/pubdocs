@@ -1,8 +1,20 @@
+Truckee:
+ sleep: Truckee Hotel - 10007 Bridge St
+ eat: Mikuni Japanese Restaurant and Sushi Bar - 5001 Northstar Dr, Suite 5101
+
+Tahoe:
+ eat: Rustic Lounge at Cedar Glen Lodge - 6589 N Lake Blvd, Tahoe Vista
+ eat: The Soule Domain - 9983 Cove St., Kings Beach, Brockway
+
 Reno:
  eat: The Isles Teashop (Irish) - 809 S. Center St
  eat: Naan & Kebab - 2740 S Virginia St.
  sleep: Holiday Inn Express Hotel & Suites Reno - 2375 Market Street
  see: National Automobile Museum - 10 S Lake St
+
+Lovelock:
+ sleep: Lovelock Inn - 55 Cornell Ave.
+ eat: The Cowpoke Cafe - 995 Cornell Ave
 
 Winnemucca:
  sleep: Winnemucca Inn - 714 W Winnemucca Blvd
