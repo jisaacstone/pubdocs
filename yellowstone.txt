@@ -1,6 +1,8 @@
 Reno:
  eat: The Isles Teashop (Irish) - 809 S. Center St
  eat: Naan & Kebab - 2740 S Virginia St.
+ sleep: Holiday Inn Express Hotel & Suites Reno - 2375 Market Street
+ see: National Automobile Museum - 10 S Lake St
 
 Winnemucca:
  sleep: Winnemucca Inn - 714 W Winnemucca Blvd
@@ -17,6 +19,7 @@ Elko:
  sleep: Americas Best Value Gold Country Inn & Casino - 2050 Idaho Street
  eat: The Flying Fish (japanese fusion) - 245 3rd Street
  eat + b: McAdoo's - 382 5th St
+ see: California Trail Historic Interpretive Center - eight miles west of Elko at Hunter Exit 292
 
 Wells:
  sleep: Sharon Motel - 599 6th St
@@ -32,6 +35,7 @@ Twin Falls:
  eat: Persian Kebab - 669 Blue Lakes Blvd N.
  sleep: The Fillmore Inn - 102 Fillmore St - (208) 736-4257
  sleep: Apollo Motor Inn - 296 Addison Ave W
+ do: Snake River Canyon Trail - Perrine Bridge
  
 Burley:
  sleep: Fairfield Inn and Suites by Marriott -  230 W. 7th Street North - Burley
@@ -45,6 +49,7 @@ Pocatello:
  eat: Sumisu (sushi) - 309 E. Center
  eat: Taste of India Nepal - 330 N Main St 
  sleep: AmeriTel Inn - 1440 Bench Rd
+ do: Museum of Clean - 711 South 2nd Avenue
 
 Blackfoot:
  sleep: Super 8 Blackfoot - 1279 Parkway Drive
@@ -64,6 +69,8 @@ Jackson:
  eat: Moo's Gourmet Ice Cream - 110 Center Street
  eat: Blue Lion (elk) - 160 N Millward
  eat: e.leaven Food Company - 175 Center St
+ do: Jackson Hole Aerial Tram Rides - 7658 Teewinot, Teton Village
+ do: Laurance Rockefeller Preserve - Moose Wilson Road
 
 Gran Teton Park:
  eat: Ranch House - Colter bay villiage
@@ -92,6 +99,11 @@ Rexburg:
  sleep: Super 8 Rexburg - 215 West Main St
  eat: Pizza Pie Cafe (Pizza Buffet) - 240 North 2nd East Street
  eat: Millhollow (Sandwich + Froyo) - 48 South 1 East
+ do: Yellowstone Bear World - 6010 S 4300 W
+ 
+Rigby:
+ sleep: Blue Heron Inn - 706 N. Yellowstone Hwy
+ eat: Pizzaria La - 185 W Main Street
 
 
 
